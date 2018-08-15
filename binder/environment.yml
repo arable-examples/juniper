@@ -1,0 +1,9 @@
+name: RidgeToReef
+channels:
+  - defaults
+dependencies:
+  - numpy=1.15.0
+  - pip:
+    - matplotlib==2.2.3
+    - pandas==0.23.4
+    - arable==0.2.dev6
